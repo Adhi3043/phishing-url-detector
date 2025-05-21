@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: phishing-url-detector
+    env: python
+    plan: free
+    buildCommand: pip install -r app/requirements.txt
+    startCommand: cd app && python app.py
+    repo: https://github.com/Adhi3043/phishing-url-detector
+    branch: main
+    region: oregon
