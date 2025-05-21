@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Phishing URL Detector</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h2>🔐 Real-Time Phishing URL Detector</h2>
+    <form method="POST">
+        <input type="text" name="url" placeholder="Paste a URL here..." required>
+        <br><br>
+        <input type="submit" value="Check">
+    </form>
+    <h3>{{ result }}</h3>
+</body>
+</html>
+

@@ -1,0 +1,11 @@
+url,label
+http://login.paypal.com.session-123456.com,phishing
+http://secure.bankofamerica.verify-user.com,phishing
+http://update-security.microsoft.com.windows123.com,phishing
+https://www.google.com,legitimate
+https://www.amazon.com,legitimate
+http://ebaylogin.verify-now.net,phishing
+http://netflix.security-alerts-check.com,phishing
+https://www.wikipedia.org,legitimate
+https://github.com,legitimate
+http://facebook.secure-reset-session.com,phishing
