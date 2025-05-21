@@ -1,3 +1,5 @@
+🚀 **Live Demo:** [Click to Try the App](https://phishing-url-detector-gpsm.onrender.com)
+
 # 🔐 Real-Time Phishing URL Detector
 
 A machine learning-powered web application that detects phishing URLs in real-time using a Random Forest classifier and TF-IDF vectorization.
