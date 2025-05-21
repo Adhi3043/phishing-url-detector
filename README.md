@@ -1,4 +1,9 @@
-🚀 **Live Demo:** [Click to Try the App](https://phishing-url-detector-gpsm.onrender.com)
+## 🚀 Live Demo
+
+[![Live](https://img.shields.io/badge/Live-Demo-blue?logo=firefox)](https://phishing-url-detector-gpsm.onrender.com)
+
+👉 Try it here: https://phishing-url-detector-gpsm.onrender.com
+
 
 # 🔐 Real-Time Phishing URL Detector
 
